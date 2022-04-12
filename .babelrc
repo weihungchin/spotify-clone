@@ -1,0 +1,5 @@
+// fix json parser in nextJS
+{
+  "presets": ["next/babel"],
+  "plugins": ["superjson-next"]
+}
